@@ -1,3 +1,4 @@
+// for vue-element-admin
 'use strict'
 const path = require('path')
 const utils = require('./utils')
