@@ -30,7 +30,7 @@ module.exports = {
     "ignoreInitial": true
   },
   "server": false,
-  "proxy": 'http://localhost:8000',
+  "proxy": 'http://backEndAddress:port',
   "port": 3000,
   "middleware": false,
   "serveStatic": [],
