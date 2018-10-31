@@ -79,5 +79,19 @@ module.exports = {
     net: 'empty',
     tls: 'empty',
     child_process: 'empty'
+  },
+  externals: {
+    // 'vue': 'Vue',
+    'BMap': 'BMap',
+    'BMapLib': 'BMapLib',
+    // 'axios':'axios',
+    'echarts/dist/echarts': 'echarts',
+    // 'vue-router':'VueRouter',
+    // 'vuex':'Vuex',
+    //'layui-laydate': 'laydate',
+    'SockJS': 'SockJS',
+    'layer': 'layer',
+    'jquery': 'jQuery',
+    'Mock':'Mock'
   }
 }
