@@ -1,2 +1,2 @@
 # sp-config
-Common configs by JavaScript
+Common config for Dev && Prod
