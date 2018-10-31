@@ -94,4 +94,9 @@ module.exports = {
     'jquery': 'jQuery',
     'Mock':'Mock'
   }
+//   for Webpack v4
+//   new webpack.ProvidePlugin({
+//     $: 'jquery',
+//     jQuery: 'jquery'
+//   });
 }
